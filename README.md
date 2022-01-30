@@ -1,2 +1,2 @@
-# Start-projects
+# Simple-calculator
 GitHub Desktop
